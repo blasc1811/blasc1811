@@ -1,16 +1,32 @@
-## Hi there 👋
+      
+## Bienvenido, soy Christian
 
-<!--
-**blasc1811/blasc1811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre Mí
+- 🔭 Actualmente trabajo en [tu trabajo actual]
+- 🌱 Estoy aprendiendo [tecnologías que aprendes]
+- 👯 Busco colaborar en [tipo de proyectos]
+- 💬 Pregúntame sobre [tus especialidades]
+- 📫 Cómo contactarme: [tu email o redes]
 
-Here are some ideas to get you started:
+<table>
+  <tr>
+    <th width="150">Lenguaje</th>
+    <th width="400">Nivel</th>
+  </tr>
+  <tr>
+    <td>JavaScript</td>
+    <td>🟢🟢🟢🟢🟢</td>
+  </tr>
+  <tr>
+    <td>Python</td>
+    <td>🟢🟢🟢🟢⚪</td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p style="font-family: 'Courier New', monospace;">
+  <code>npm install mi-paquete</code>
+</p>
+
+| | |
+| :---------------------------------------------------------------- | :--------------------------------------------------------------- |
+| **🛠️ Habilidades Técnicas** <br> • JavaScript <br> • React <br> • Node.js <br> • Python <br> • MongoDB | **🎨 Diseño & Tools** <br> • Figma <br> • Photoshop <br> • VS Code <br> • Git <br> • Docker |
