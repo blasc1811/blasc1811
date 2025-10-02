@@ -1,5 +1,5 @@
       
-## Bienvenido, soy Christian
+## Bienvenido
 
 ## 🚀 Sobre Mí
 - 🔭 Actualmente trabajo en [tu trabajo actual]
@@ -8,19 +8,17 @@
 - 💬 Pregúntame sobre [tus especialidades]
 - 📫 Cómo contactarme: [tu email o redes]
 
+![Coding](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3JmNmIwcXI4cXdkOHgxdmQ3ZjhudzV0bzFvYnV1ZjUxcTBoeGppMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2ZsmHUWecHSlqXLAyi/giphy.gif)
+![reference](https://images.pexels.com/photos/33929358/pexels-photo-33929358.jpeg)
+
 <table>
-  <tr>
-    <th width="150">Lenguaje</th>
-    <th width="400">Nivel</th>
-  </tr>
-  <tr>
-    <td>JavaScript</td>
-    <td>🟢🟢🟢🟢🟢</td>
-  </tr>
-  <tr>
-    <td>Python</td>
-    <td>🟢🟢🟢🟢⚪</td>
-  </tr>
+      <tr>
+            <th rowspan="2" >Nivel</th>
+            <th width="500">Nivel</th>
+      </tr>
+      <tr>
+            <td>JavaScript</td>
+      </tr>
 </table>
 
 <p style="font-family: 'Courier New', monospace;">
