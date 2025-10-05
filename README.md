@@ -81,11 +81,7 @@
       </tr>
 </table>
 
-
-## Bienvenido
-
-## 🚀 Sobre Mí
-- 🔭 Actualmente trabajo en [tu trabajo actual]
+##
 
 ![Coding](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3JmNmIwcXI4cXdkOHgxdmQ3ZjhudzV0bzFvYnV1ZjUxcTBoeGppMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2ZsmHUWecHSlqXLAyi/giphy.gif)
 ![reference](https://images.pexels.com/photos/33929358/pexels-photo-33929358.jpeg)
