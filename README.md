@@ -2,7 +2,7 @@
 <table>
       <tr>
             <th rowspan="2" width="350">
-             <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3V3cmxiN3hjZ3A3cGpienlnYmJpcGtkbjJ4ZDJxcTA0bTh1aHQxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NXnTlsbJ1cgK5mcQiU/giphy.gif">
+             <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3V3cmxiN3hjZ3A3cGpienlnYmJpcGtkbjJ4ZDJxcTA0bTh1aHQxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NXnTlsbJ1cgK5mcQiU/giphy.gif" width="100%">
             </th>
             <th width="650" height="50">B I E N V E N I D O</th>
       </tr>
