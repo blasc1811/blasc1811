@@ -119,7 +119,7 @@ work in progress...
 ![Coding](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3JmNmIwcXI4cXdkOHgxdmQ3ZjhudzV0bzFvYnV1ZjUxcTBoeGppMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2ZsmHUWecHSlqXLAyi/giphy.gif)
 
 ##
-This project uses third-party resources with the respective credits to their authors. [ @frederickmaheux ] [ @Polygon1993 ]
+This project uses third-party resources with the respective credits to their authors.
 <table>
       <tr>
             <td>Autores</td>
