@@ -1,14 +1,46 @@
 
 <table>
       <tr>
-            <th rowspan="2" width="350">
+            <th rowspan="2">
              <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3V3cmxiN3hjZ3A3cGpienlnYmJpcGtkbjJ4ZDJxcTA0bTh1aHQxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NXnTlsbJ1cgK5mcQiU/giphy.gif" width="100%">
             </th>
-            <th width="650" height="50">B I E N V E N I D O</th>
+            <th width="650">B I E N V E N I D O</th>
+      </tr>
+      <tr>
+            <td>
+                  <code>Hola (～￣▽￣)～, soy <strong>Christian Blas</strong> y soy programador apasionado por el desarrollo web, la tecnología y el arte.</code>
+            </td>
+      </tr>
+</table>
+
+##
+
+<table>
+      <tr>
+            <td  colspan="2" width="100%"><strong>Sobre</strong> mí.</td>
       </tr>
       <tr>
             <td>
                   <code>Me apasiona el mundo de los datos y la tecnología. Aunque estoy comenzando, ya he explorado el análisis de datos, la automatización de procesos y el desarrollo web. Aprendo rápido, me adapto fácilmente y disfruto trabajar en equipo. Busco oportunidades donde pueda seguir aprendiendo y aportar con soluciones tecnológicas creativas.</code>
+            </td>
+            <td>
+                  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmx5aWloZDhkb2p2Mzh0bmk4czc2ZnNyMDNqeDdvenVpeDZueWlqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcxkltip545hjMc/giphy.gif">
+            </td>
+      </tr>
+</table>
+
+##
+
+<table>
+      <tr>
+            <td>
+                  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWl3dDI3am1yY2l4OHc4bmw1d3NiY3QyanpmMDhvZ2p6czhzZ2g0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lPCbQV5IcUt7JnucpP/giphy.gif">
+            </td>
+            <td>
+                  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2t6NXE2Y2ZlcWd4cWQ1amlkbDlpbHdlODlja3V3MTV4ejk4cDRkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MnIO9NK5QwKRvVvfE7/giphy.gif">
+            </td>
+            <td>
+                  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTgwMDh3NW9lcjRmeHNxampwdzBhNGk0b2dpdDBqam8zdzFyd2tybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KIo8G1sUetkjHofSFi/giphy.gif">
             </td>
       </tr>
 </table>
@@ -83,11 +115,33 @@
 
 ##
 
+work in progress...
 ![Coding](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3JmNmIwcXI4cXdkOHgxdmQ3ZjhudzV0bzFvYnV1ZjUxcTBoeGppMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2ZsmHUWecHSlqXLAyi/giphy.gif)
-![reference](https://images.pexels.com/photos/33929358/pexels-photo-33929358.jpeg)
 
-  <code>npm install mi-paquete</code>
-
+##
+This project uses third-party resources with the respective credits to their authors. [ @frederickmaheux ] [ @Polygon1993 ]
+<table>
+      <tr>
+            <td>Autores</td>
+            <td>Links</td>
+      </tr>
+      <tr>
+            <td>@Capcom</td>
+            <td>https://giphy.com/Capcom</td>
+      </tr>
+      <tr>
+            <td>@frederickmaheux</td>
+            <td>https://giphy.com/frederickmaheux</td>
+      </tr>
+      <tr>
+            <td>@Polygon1993</td>
+            <td>https://giphy.com/Polygon1993</td>
+      </tr>
+      <tr>
+            <td>@uscesports</td>
+            <td>https://giphy.com/uscesports</td>
+      </tr>
+</table>
 
 <!--
 https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3V3cmxiN3hjZ3A3cGpienlnYmJpcGtkbjJ4ZDJxcTA0bTh1aHQxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NXnTlsbJ1cgK5mcQiU/giphy.gif
