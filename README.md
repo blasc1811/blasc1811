@@ -1,7 +1,8 @@
 
+##
 <table>
       <tr>
-            <th colspan="2" width="100%">B I E N V E N I D O</th>
+            <th colspan="2" width="100%"><code>B I E N V E N I D O</code></th>
       </tr>
       <tr>
             <td> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3V3cmxiN3hjZ3A3cGpienlnYmJpcGtkbjJ4ZDJxcTA0bTh1aHQxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NXnTlsbJ1cgK5mcQiU/giphy.gif"></td>
@@ -10,8 +11,6 @@
             </td>
       </tr>
 </table>
-
-##
 
 <table>
       <tr>
@@ -27,8 +26,6 @@
       </tr>
 </table>
 
-##
-
 <table>
       <tr>
             <td>
@@ -43,12 +40,10 @@
       </tr>
 </table>
 
-##
-
 <table>
       <tr>
-            <th width="200">Propiedad</th>
-            <th width="900" >Datos</th>
+            <th width="200">Property</th>
+            <th width="900" >Data</th>
       </tr>
       <tr>
             <td>Programming languages</td>
@@ -76,7 +71,7 @@
                         <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
                   </a>   
                   <a href="https://www.w3schools.com/css/" target="_blank">
-                        <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+                        <img alt="CSS" src="https://img.shields.io/badge/css-%23663399?style=flat&logo=css&logoColor=%23663296&logoSize=auto&color=white">
                   </a> 
                   <a href="https://getbootstrap.com" target="_blank"> 
                         <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
@@ -87,7 +82,7 @@
             <td>Databases & Cloud Hosting</td>
             <td>
                   <a href="https://www.mysql.com/">
-                        <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white">
+                        <img alt="MySQL" src="https://img.shields.io/badge/mysql-%234479A1?style=flat&logo=mysql&logoColor=white&logoSize=auto&color=%233e6e93">
                   </a>
                   <a href="https://www.sqlite.org/">
                         <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/>
@@ -95,17 +90,10 @@
             </td>
       </tr>
       <tr>
-            <td>Graphic Designing</td>
-            <td>
-                  <a href="#">
-                        <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
-                  </a>
-            </td>
-      </tr>
-      <tr>
             <td>Software & Tools</td>
             <td>
                   <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
+                  <a href="#"><img alt="Notion" src="https://img.shields.io/badge/notion-%23000000?style=flat&logo=notion&logoColor=black&logoSize=auto&color=white"></a>
                   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
             </td>
       </tr>
