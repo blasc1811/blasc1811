@@ -7,14 +7,14 @@
       <tr>
             <td> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3V3cmxiN3hjZ3A3cGpienlnYmJpcGtkbjJ4ZDJxcTA0bTh1aHQxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NXnTlsbJ1cgK5mcQiU/giphy.gif"></td>
             <td>
-                  <code>Hola (～￣▽￣)～, soy <strong>Christian Blas</strong> y soy programador apasionado por el desarrollo web, la tecnología y el arte.</code>
+                  <code>Hola (～￣▽￣)～, soy <strong>Christian</strong>, desarrollor Front End, apasionado por la la tecnología y el arte.</code>
             </td>
       </tr>
 </table>
 
 <table>
       <tr>
-            <td  colspan="2" width="100%"><strong>Sobre</strong> mí.</td>
+            <td  colspan="2" width="100%"><strong><code>Sobre</strong> mí.</code></td>
       </tr>
       <tr>
             <td>
